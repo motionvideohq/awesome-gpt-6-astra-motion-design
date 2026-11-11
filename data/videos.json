@@ -1,0 +1,110 @@
+[
+  {
+    "slug": "leon7hao-e3659d",
+    "title": "Changelog feature highlight video",
+    "creator": "leon7hao",
+    "post_url": "https://x.com/leon7hao/status/2096844989900914865",
+    "motionvideo_url": "https://motionvideo.xyz/videos/leon7hao-e3659d",
+    "poster_url": "https://assets.motionvideo.xyz/motion/leon7hao-e3659d/poster-5362b3d0c1.jpg",
+    "video_url": "https://assets.motionvideo.xyz/motion/leon7hao-e3659d/video-b130260036.mp4",
+    "width": 1920,
+    "height": 1080,
+    "posted": "2026-09-07",
+    "model": "GPT-6 Astra",
+    "categories": [
+      "product-ui",
+      "kinetic-type"
+    ],
+    "stack": null,
+    "effort": null,
+    "iterations": null,
+    "prompt": "根据最近的 changelog 比较亮眼的功能做个视频。",
+    "skill_url": null
+  },
+  {
+    "slug": "therohanvarma-098f9f",
+    "title": "Elderwood Realms game promo",
+    "creator": "TheRohanVarma",
+    "post_url": "https://x.com/TheRohanVarma/status/2096744577332068549",
+    "motionvideo_url": "https://motionvideo.xyz/videos/therohanvarma-098f9f",
+    "poster_url": "https://assets.motionvideo.xyz/motion/therohanvarma-098f9f/poster-f3e98a65ba.jpg",
+    "video_url": "https://assets.motionvideo.xyz/motion/therohanvarma-098f9f/video-f7584e7b92.mp4",
+    "width": 1568,
+    "height": 1200,
+    "posted": "2026-09-06",
+    "model": "GPT-6 Astra",
+    "categories": [
+      "product-ui"
+    ],
+    "stack": null,
+    "effort": null,
+    "iterations": "one-shot",
+    "prompt": "I want to make a nice 30 second video that will perform well on twitter, show casing the game that we created here - could you make that video?",
+    "skill_url": null
+  },
+  {
+    "slug": "d4m1n-607f5a",
+    "title": "AdCar TV launch video",
+    "creator": "d4m1n",
+    "post_url": "https://x.com/d4m1n/status/2096258259459964963",
+    "motionvideo_url": "https://motionvideo.xyz/videos/d4m1n-607f5a",
+    "poster_url": "https://assets.motionvideo.xyz/motion/d4m1n-607f5a/poster-c5c7b43dfa.jpg",
+    "video_url": "https://assets.motionvideo.xyz/motion/d4m1n-607f5a/video-6caefa3cd8.mp4",
+    "width": 3840,
+    "height": 2160,
+    "posted": "2026-09-05",
+    "model": "GPT-6 Astra",
+    "categories": [
+      "product-ui",
+      "music"
+    ],
+    "stack": "Remotion + ffmpeg",
+    "effort": null,
+    "iterations": "one-shot",
+    "prompt": "can we create an overall video presenting the concept of AdCar TV?\n\nmake an intro video of 30-60s showing nice visuals (maybe the 3d of the car)?\nand really cool car animations / branded stuff, showing off the site etc.\nUse ffmpeg, remotion and qwen 3 tts for voice, and install whatever makes sense,\nand come up with a cool artboard first and then make the video.\nthere is some music and car sounds in the codebase already.",
+    "skill_url": null
+  },
+  {
+    "slug": "deryatr_-d040cc",
+    "title": "T cells explainer video",
+    "creator": "DeryaTR_",
+    "post_url": "https://x.com/DeryaTR_/status/2095659170661904804",
+    "motionvideo_url": "https://motionvideo.xyz/videos/deryatr_-d040cc",
+    "poster_url": "https://assets.motionvideo.xyz/motion/deryatr-d040cc/poster-1d92701274.jpg",
+    "video_url": "https://assets.motionvideo.xyz/motion/deryatr-d040cc/video-c00619a66e.mp4",
+    "width": 1920,
+    "height": 1080,
+    "posted": "2026-09-03",
+    "model": "GPT-6 Astra",
+    "categories": [
+      "diagrams"
+    ],
+    "stack": "Remotion",
+    "effort": null,
+    "iterations": "one-shot",
+    "prompt": "Create a 5 minute educational video about T cells.",
+    "skill_url": null
+  },
+  {
+    "slug": "kashiko_aiart-584217",
+    "title": "Camera composition reference grid",
+    "creator": "Kashiko_AIart",
+    "post_url": "https://x.com/Kashiko_AIart/status/2093575541916061984",
+    "motionvideo_url": "https://motionvideo.xyz/videos/kashiko_aiart-584217",
+    "poster_url": "https://assets.motionvideo.xyz/motion/kashiko-aiart-584217/poster-301296644e.jpg",
+    "video_url": "https://assets.motionvideo.xyz/motion/kashiko-aiart-584217/video-3a0858b951.mp4",
+    "width": 1920,
+    "height": 2160,
+    "posted": "2026-08-29",
+    "model": "GPT-6 Astra",
+    "categories": [
+      "diagrams",
+      "characters"
+    ],
+    "stack": "Remotion + HTML",
+    "effort": null,
+    "iterations": null,
+    "prompt": "RemotionとHTML、CSS、SVGを使って、動画生成AIへカメラ構図と連続したカメラ移動を伝えるための「カメラ構図一覧」と「モーションコンテ」を作ってください。\n\n30種類の重複しないカメラ構図を、HTML画面上の6列×5行グリッドに並べてください。\n\n各パネルには以下を表示します。\n・ID：A〜Z、AA〜AD\n・構図名\n・16:9の構図サムネイル\n\n被写体は、位置、向き、傾きだけが分かるシンプルなi字人形を2体使います。人物Aはシアン、人物Bはオレンジにして、二人の位置関係を判別しやすくしてください。背景、ステージ、客席、家具なども単純なSVG図形で表現してください。\n\n全景、ツーショット、各人物の寄り、肩越し、横顔、俯瞰、あおり、主観、前景越し、背面、周回など、重複しない30種類を作ってください。",
+    "skill_url": null
+  }
+]
